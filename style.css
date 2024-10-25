@@ -1,0 +1,33 @@
+
+/* just style. */
+.container{
+    width:800px;
+    text-align: center;
+    margin: 150px auto;
+}
+
+.container h1{
+    font-size: 35px;
+    text-transform: capitalize;
+}
+
+#timer p{
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+#startbtn{
+    padding: 15px 30px;
+    border: none;
+    background-color: yellowgreen;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+#Stoptbtn{
+    padding: 15px 30px;
+    border: none;
+    background-color: rgb(161, 235, 13);
+    border-radius: 5px;
+    margin: 0 10px;
+}
